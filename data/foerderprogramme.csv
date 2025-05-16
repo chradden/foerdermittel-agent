@@ -1,8 +1,10 @@
 Programmname,Träger,Zielgruppe,Maßnahme,Förderquote,Max. Förderung (€),Link
-BAFA Modul 3,BAFA,Eigentum,Energiemanagement-Software,0.3,10000,https://www.bafa.de/DE/Energie/Energieeffizienz/Modul3
+BAFA Modul 3,BAFA,Eigentum,Energiemanagement-Software,0.3,10000,https://www.bafa.de/DE/Energie/Energieeffizienz/Modul3/
 Kommunalrichtlinie,BMUV,Miete,LED-Umrüstung,0.4,20000,https://www.klimaschutz.de/kommunalrichtlinie
-KfW 278,KfW,Eigentum,Zählernachrüstung,0.35,15000,https://www.kfw.de/278
 KfW 278,KfW,Eigentum,Zählernachrüstung,0.35,15000,https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-und-Umwelt/Energieeffizienzprogramm-Abwärme-(294-295-296)/
-KfW 297/298,KfW,Eigentum,Gebäudesanierung,0.45,50000,https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-und-Umwelt/BEG-Einzelmaßnahmen/
-Kommunalrichtlinie,BMUV,Miete,LED-Umrüstung,0.4,20000,https://www.klimaschutz.de/kommunalrichtlinie
-BAFA Modul 1,BAFA,Eigentum,Querschnittstechnologien,0.3,30000,https://www.bafa.de/DE/Energie/Energieeffizienz/Modul1/modul1_node.html
+KfW 297/298,KfW,Eigentum,Gebäudesanierung,0.45,50000,https://www.kfw.de/BEG-EM
+BAFA Modul 1,BAFA,Eigentum,Querschnittstechnologien,0.3,30000,https://www.bafa.de/DE/Energie/Energieeffizienz/Modul1/
+co2online FördermittelCheck,co2online gGmbH,Allgemein,Online-Abfrage für Fördermöglichkeiten,,,https://www.co2online.de/foerdermittel/
+Förderinfo – BMWK,BMWK,Allgemein,Zentrale Plattform für Förderprogramme,,,https://www.foerderinfo.bund.de/foerderinfo/de/home/home_node.html
+BAFA Förderkompass (PDF),BAFA,"Unternehmen, Kommunen",Überblick zu BAFA-Förderprogrammen,,,https://www.bafa.de/SharedDocs/Downloads/DE/Bundesamt/foerderkompass.html?nn=1469694
+foerderdata.de,BHKW-Infozentrum,"Unternehmen, Kommunen",Datenbank für Energie- und Gebäudeförderung,,,https://foerderdata.de/
